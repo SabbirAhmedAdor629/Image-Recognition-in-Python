@@ -1,1 +1,1 @@
-I use three types kind flower image to build a machine learning model then using tensorflow and keras i showcase the result by testing the model. All of the information related to this project with explanation video has been given in the google drive link.
+I use three kinds of flower image to build a machine learning model then using tensorflow and keras i showcase the result by testing the model. All of the information related to this project with explanation video has been given in the google drive link.
